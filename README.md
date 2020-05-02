@@ -1,2 +1,2 @@
 # JavaScriptexamples
-examples for practice 
+I practiced some problem statement and used JavaScript for coding. 
